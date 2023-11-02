@@ -75,6 +75,7 @@ spec:
                       - ImagePolicy
                       - ImageUpdateAutomation
                       - OCIRepository
+                      - HostConfiguration
                       type: string
                     matchLabels:
                       additionalProperties:
@@ -280,6 +281,7 @@ spec:
                       - ImagePolicy
                       - ImageUpdateAutomation
                       - OCIRepository
+                      - HostConfiguration
                       type: string
                     matchLabels:
                       additionalProperties:
